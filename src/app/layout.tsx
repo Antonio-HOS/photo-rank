@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ranl de titulos",
+  title: "Rank de titulos",
   description: "Criado por Antonio",
 };
 
